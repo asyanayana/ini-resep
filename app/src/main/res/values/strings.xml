@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Ini-Resep</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="recipes_fragment">Recipes</string>
+    <string name="favorite_recipes_fragment">Favorites</string>
+    <string name="food_joke_fragment">Tips Cook</string>
+
+    // Bottom Sheet
+    <string name="meal_type">Meal Type</string>
+    <string name="main_course">Main Course</string>
+    <string name="side_dish">Side Dish</string>
+    <string name="dessert">Dessert</string>
+    <string name="appetizer">Appetizer</string>
+    <string name="salad">Salad</string>
+    <string name="bread">Bread</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="soup">Soup</string>
+    <string name="beverage">Beverage</string>
+    <string name="sauce">Sauce</string>
+    <string name="marinade">Marinade</string>
+    <string name="fingerfood">FingerFood</string>
+    <string name="snack">Snack</string>
+    <string name="drink">Drink</string>
+    <string name="ketogenic">Ketogenic</string>
+    <string name="pescetarian">Pescetarian</string>
+    <string name="paleo">Paleo</string>
+    <string name="primal">Primal</string>
+    <string name="whole30">Whole30</string>
+    <string name="diet_type">Diet Type</string>
+    <string name="apply">Apply</string>
+    <string name="search">Search</string>
+    <string name="save_to_favorites">Save To Favorite Menu</string>
+    <string name="no_favorite_recipes">No Favorite Recipes</string>
+
+    <string name="vegetarian">Vegetarian</string>
+    <string name="vegan">Vegan</string>
+    <string name="gluten_free">Gluten Free </string>
+    <string name="cheap">Cheap</string>
+    <string name="healthy">Healthy</string>
+    <string name="dairy_free">Dairy Free</string>
+    <string name="delete_favorite_menu">Delete Favorite Menu</string>
+    <string name="delete_all">Delete All</string>
+
+
+    <string name="hacks_cook">KITCHEN HACKS AND COOKING TIPS</string>
+    <string name="hacks1">There’s nothing worse than stale bread. What happens, though, if you don’t
+        have time to run to the store to buy a fresh loaf? Looks like you’re stuck with a stale baguette.
+        Or are you? Maybe not! Try running the bread under some water and stick it in the oven for 5 to 10 minutes.
+        You can also wrap it in a damp paper towel and pop it in the oven. With this little hack, your
+        bread will come out fresh and crunchy as if you had just baked it!</string>
+    <string name="hacks2">Pancakes are often viewed as a guilty pleasure, something you
+        indulge in on special occasions, right? We often see healthy pancakes at cafes and breakfast
+        boutiques, but you can make your own version at home! If you’re having a lazy morning and you’re
+        in the mood for this special breakfast treat, you can make a healthy diet-friendly version. You
+        can use protein powder, almond milk, oat flour, fruit, dried fruit as substitutes for the fatty
+        ingredients – it’s that simple!</string>
+    <string name="hacks3">We’ve all been in the scenario when we’ve boiled an egg, but when we try
+        and peel it, all that is left is less than half of the egg. If you let the eggs cool off,
+        they’ll be much easier to peel. If you’re really in the mood for eating the boiled eggs the
+        moment they’re done cooking, you can add a little salt in the water when they cook. When
+        they’re done – use a spoon to crack one end slightly and peel the shell from the inside!</string>
+    <string name="hacks4">If eggs are stored properly, they can usually last for three to five weeks.
+        Still, it’s better to be safe than sorry. After all, no one likes cracking open a rotten egg,
+        especially if they’re planning to cook with it. To ensure that this doesn’t happen to you,
+        pop the egg into a large bowl or glass of cold water. If the little guy sinks, you’re good
+        to go. If it floats, throw it away and buy yourself some fresh eggs!</string>
+    <string name="hacks5">Squeezing lemons is a hard task, especially if you thought you were cutting
+        open a juicy lemon, and you realize it’s not! You can get more juice from a lemon by microwaving
+        it on high for about 20 seconds. It sounds crazy, we know, but it works! It will become softer
+        than a lemon straight from the fridge, making the citrus fruit much easier to squeeze.
+        Next time you’re stuck with a tough lemon, try this!</string>
+
+
+</resources>
